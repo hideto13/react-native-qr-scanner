@@ -1,1 +1,5 @@
-# react-native-qr-scanner
+# QR-scanner app
+
+## Run locally
+
+`expo start`
